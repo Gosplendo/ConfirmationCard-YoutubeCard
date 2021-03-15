@@ -7,5 +7,5 @@ Contact Confirmation:
 	or edit the information (new tab to deeplink).
 	
 Assemblies Video:
-	This card embeds an unlisted information YouTube video about assemblies. If a use clicks on the white portions of the card (not the title)
+	This card embeds an unlisted informational YouTube video about assemblies. If a user clicks on the white portions of the card (not the title)
 	then the card will open up into a page and display the video there.
